@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Hadoop temp and output
+tmp/
+output/
+
+# Packet capture files
+*.pcap
+
+# CSV logs
+network_logs.csv
+
+# IDE/editor
+.idea/
+.vscode/
+.DS_Store
